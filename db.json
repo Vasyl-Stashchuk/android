@@ -2,19 +2,19 @@
   "posts": [
     {
     "id": 1,
-    "name": "user1",
-    "type": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "size": "quia",
-    "price": "azaza",
-    "brand": "azaza"
+    "name": "Vasyl",
+    "type": "T-Shirt",
+    "size": "XL",
+    "price": "25$",
+    "brand": "Nike"
   },
   {
     "id": 2,
-    "name": "user2",
-    "type": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "size": "qusdasdia",
-    "price": "azasdasdasdaza",
-    "brand": "azaza"
+    "name": "Vasyl",
+    "type": "T-Shirt",
+    "size": "XL",
+    "price": "25$",
+    "brand": "Reebok"
   },
   {
     "id": 3,
